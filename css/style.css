@@ -464,6 +464,8 @@
 }
 
 .video > .mp4 {
+  padding: 0;
+  margin: 0;
   width: 200%;
   height: 230%;
   max-width: 200%;
