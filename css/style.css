@@ -465,7 +465,7 @@
 
 .video > .mp4 {
   width: 80%;
-  height: auto;
+  height: 100%;
   max-width: 80%;
   display: flex;
   margin: 0 auto;
