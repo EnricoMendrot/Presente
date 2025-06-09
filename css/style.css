@@ -476,6 +476,7 @@
 
 @media (max-width: 498px) {
   .container {
+    display: flex;
     flex-direction: column;
   }
   .poema17, .video {
