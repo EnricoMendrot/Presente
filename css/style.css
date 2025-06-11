@@ -473,7 +473,7 @@
   box-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px rgb(0, 0, 0), 0 0 82px rgb(0, 0, 0), 0 0 92px rgb(0, 0, 0), 0 0 102px rgb(0, 0, 0), 0 0 151px rgb(0, 0, 0), 0 0 200px rgb(0, 0, 0);
 }
 
-@media (width < 498px) {
+@media (width > 300px) {
     .video > .mp4 {
         widht: 100%;
         height: 800px;
