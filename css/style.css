@@ -476,6 +476,6 @@
 @media (width < 498px) {
     .video > .mp4 {
         widht: 100%;
-        height: 100%;
+        height: 200%;
     }
   }
