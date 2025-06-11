@@ -403,12 +403,12 @@
   justify-content: space-between;
   align-items: stretch;
   width: 100%;
-  min-height: 100vh;
+  min-height: 100vw;
 }
 
 .poema17 {
   width: 50%;
-  min-height: 100vh;
+  min-height: 100vw;
   background-image: url(../image/imagem\ da\ section17.jpeg);
   background-size: cover;
   background-position: center;
