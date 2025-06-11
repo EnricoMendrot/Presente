@@ -481,11 +481,3 @@
   .poema17, .video {
     width: 100%;
   }
-  .mp4 {
-    width: 200vw;
-    max-width: 200vw;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
-}
