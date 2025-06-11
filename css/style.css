@@ -408,7 +408,7 @@
 
 .poema17 {
   width: 100vw;
-  min-height: 100vw;
+  height: 100vw;
   background-image: url(../image/imagem\ da\ section17.jpeg);
   background-size: cover;
   background-position: center;
